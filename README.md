@@ -40,3 +40,5 @@ plt.ylabel("Actual")
 plt.show()
 
 print("Classification Report:\n", classification_report(y_test, y_pred))
+
+![Plotly Visualization: Simulated Regression](RF.png)
