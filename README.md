@@ -94,4 +94,5 @@ README.md	                    Brief documentation of the project
         
         print("Classification Report:\n", classification_report(y_test, y_pred))
         
-    ![Plotly Visualization: Simulated Regression](RF.png)
+
+![Plotly Visualization: Simulated Regression](RF.png)
