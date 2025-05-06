@@ -3,7 +3,7 @@ This document provides an overview of the Random Forest Classifier for Shipment 
 
 ## System Purpose and Functionality
 The Random Forest Classifier system is designed to classify shipment delay risks into two categories (High or Low) based on five key shipping features. The system demonstrates the application of Random Forest, an ensemble learning method, for solving a binary classification problem in the logistics domain.
-![image](SPF.png)
+![image](SPF.png) 
 
 ## Machine Learning Pipeline
 The system implements a standard machine learning workflow consisting of the following key stages:
