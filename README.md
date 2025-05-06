@@ -50,7 +50,7 @@ File	                        Purpose
 RandomForest.ipynb	            Jupyter notebook containing the entire implementation
 README.md	                    Brief documentation of the project
 
-### Code Notebook Below
+### Code Notebook:
 
 
         import numpy as np
